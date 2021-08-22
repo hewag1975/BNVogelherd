@@ -1,0 +1,12 @@
+---
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# BNVogelherd
+
+Some code to prepare field data for the Vogelherd project of "Bund Naturschutz" 
+in Nürnberger Land.
